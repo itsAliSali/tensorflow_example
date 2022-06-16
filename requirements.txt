@@ -4,3 +4,5 @@ scipy>=1.5.4
 opencv-python>=4.5.2.54
 tensorflow>=2.6.2
 python-mnist>=0.7
+
+xlrd==1.2.0
